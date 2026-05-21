@@ -1,4 +1,4 @@
-# YouTube Downloader
+# Video Downloader
 
 A modern, feature-rich YouTube downloader with a sleek GUI built with CustomTkinter. Download videos and audio from YouTube in your preferred quality with support for playlists.
 
