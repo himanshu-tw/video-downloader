@@ -29,7 +29,7 @@ A modern, feature-rich YouTube downloader with a sleek GUI built with CustomTkin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/yt-downloader.git
+   git clone https://github.com/himanshu-tw/yt-downloader.git
    cd yt-downloader
    ```
 
